@@ -1,0 +1,2 @@
+## annotations
+дописан JsonSerializer
